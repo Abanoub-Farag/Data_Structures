@@ -1,0 +1,6 @@
+# Ignore build files
+*.exe
+
+# Ignore IDE settings
+.idea/
+*.iml
